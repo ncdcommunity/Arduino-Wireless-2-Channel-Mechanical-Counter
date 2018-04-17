@@ -1,6 +1,6 @@
-///this code is written and tested for ncd.io IoT Long Range Wireless Push Notification Dry Contact Transmitter with arduino due
-///sensor data structure can be found here https://ncd.io/long-range-iot-wireless-push-notification-sensor-product-manual/
-/// sensor can be found here https://store.ncd.io/product/iot-long-range-wireless-push-notification-dry-contact-transmitter/
+///this code is written and tested for ncd.io IoT Long Range Wireless Two Channel Counter Transmitter with arduino due
+///sensor data structure can be found here https://store.ncd.io/product/long-range-iot-wireless-two-channel-counter/
+/// sensor can be found here https://ncd.io/long-range-iot-wireless-two-channel-counter-product-manual/
 
   uint8_t data[29];
   int k = 10;
